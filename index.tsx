@@ -33,6 +33,6 @@ console.log(remaining);
 console.log(remaining.Salary);
 console.log(lname);
 
-ReactDOM.render( <div>Hello</div>,document.getElementById('root'));
+ReactDOM.render( <div>See Console</div>,document.getElementById('root'));
 
 
